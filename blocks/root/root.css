@@ -1,0 +1,8 @@
+:root {
+  --color-dark-grey: #2A2C2F;
+  --color-light-grey: #AAA;
+  --color-white: #fff;
+  --bg-color: var(--color-dark-grey);
+  --text-color: var(--color-white);
+  --url-heading-color: var(--color-light-grey);
+}
