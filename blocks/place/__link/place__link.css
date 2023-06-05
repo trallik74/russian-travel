@@ -1,0 +1,5 @@
+.place__link {
+  color: var(--text-color);
+  font-size: 18px;
+  line-height: 18px;
+}

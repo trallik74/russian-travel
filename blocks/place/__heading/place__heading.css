@@ -1,0 +1,5 @@
+.place__heading {
+  display: flex;
+  align-items: flex-end;
+  gap: 40px;
+}
