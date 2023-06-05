@@ -1,0 +1,14 @@
+.cover__inner {
+  min-height: 740px;
+  background-image: url(../../../images/__background.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: var(--text-color);
+  justify-content: center;
+  align-items: center;
+}
