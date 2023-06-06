@@ -1,0 +1,7 @@
+@media (max-width: 767px) {
+  .place__website {
+        min-width: 288px;
+        margin: 0 auto;
+    }
+}
+

@@ -7,3 +7,13 @@
   font-size: 16px;
   line-height: 18px;
 }
+
+@media (max-width: 767px) {
+  .footer__menu-list {
+    flex-direction: column;
+    gap: 32px;
+    font-size: 24px;
+    line-height: 24px;
+  }
+}
+

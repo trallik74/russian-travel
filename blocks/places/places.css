@@ -5,3 +5,25 @@
   flex-direction: column;
   gap: 80px;
 }
+
+@media (max-width: 1279px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .places {
+    max-width: 720px;
+    margin: 88px auto 90px;
+    gap: 70px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places {
+    max-width: 320px;
+    margin: 64px auto;
+    gap: 50px
+  }
+}

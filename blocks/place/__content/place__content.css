@@ -2,3 +2,23 @@
   display: flex;
   gap: 40px;
 }
+
+@media (max-width: 1279px) {
+  .place__content {
+    gap: 32px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .place__content {
+    gap: 28px;
+  }
+}
+
+@media (max-width: 767px) {
+  .place__content {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+  }
+}
