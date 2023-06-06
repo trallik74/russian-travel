@@ -4,8 +4,17 @@
   gap: 48px;
 }
 
+
+@media (max-width: 1023px) {
+  .place:last-child {
+    transform: translateY(-22px);
+  }
+}
 @media (max-width: 767px) {
   .place {
-  gap: 32px;
+    gap: 32px;
+  }
+  .place:last-child {
+    transform: translateY(0);
   }
 }
