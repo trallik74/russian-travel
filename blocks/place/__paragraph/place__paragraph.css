@@ -1,7 +1,7 @@
 .place__paragraph {
   margin: 0;
   font-size: 18px;
-  line-height: 29px;
+  line-height: 1.63;
   max-width: 484px;
   width: 100%;
   text-align: left;

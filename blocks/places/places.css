@@ -15,15 +15,15 @@
 @media (max-width: 1023px) {
   .places {
     max-width: 720px;
-    margin: 88px auto 68px;
-    gap: 70px;
+    margin: 88px auto 90px;
+    gap: 72px;
   }
 }
 
 @media (max-width: 767px) {
   .places {
     max-width: 320px;
-    margin: 64px auto;
+    margin: 64px auto 66px;
     gap: 50px;
   }
 }
